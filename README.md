@@ -1,5 +1,4 @@
 <h1 align="center"> Cluster Jerarquico VS Cluster Particional </h1>
-<h2 align="center"> Diferencia de agrupación entre uno y otro<h2>
 
 ## Introducción
 El clustering es básicamente, encontrar grupos de objetos especificando algunas características, que pueden ser similitudes o relaciones entre grupos, además de diferencias de objetos de otros grupos. Estos datos pueden dividirse cuando tenemos información significativa o útil, donde debemos tomar en cuenta la captura de la estructura natural de los datos.
