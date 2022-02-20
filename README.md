@@ -45,4 +45,6 @@ Estudios clínicos a partir de imágenes digitalizadas de pacientes con cáncer 
 mama de Wisconsin (WDBC, Wisconsin Diagnostic Breast Cancer)
  
  Fuente de datos:
-
+<p align='center'>
+  <a href="https://github.com/LuisJavierFI/ClusterJerarquico-vs-ClusterParticional"><img src = "Datos.JPG"  width = 500> </a>
+</p>
