@@ -4,7 +4,7 @@
 ## Introducción
 El clustering es básicamente, encontrar grupos de objetos especificando algunas características, que pueden ser similitudes o relaciones entre grupos, además de diferencias de objetos de otros grupos. Estos datos pueden dividirse cuando tenemos información significativa o útil, donde debemos tomar en cuenta la captura de la estructura natural de los datos.
  
- Clustering jerárquico
+**Clustering jerárquico**
  
 • El algoritmo de clustering jerárquico organiza los elementos, de manera 
 recursiva, en una estructura en forma de árbol. Este árbol representa las 
@@ -22,7 +22,8 @@ relaciones de similitud entre los distintos elementos.
 • 3. Utilizar un método para decidir la cantidad adecuada de grupos.
  
 • 4. Interpretación de los grupos.
-  
+ 
+**Clúster Particional**  
 El algoritmo particional, conocido también como de particiones, organiza los 
 elementos dentro de k clústeres. Tiene ventajas en aplicaciones que involucran 
 gran cantidad de datos.
