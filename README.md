@@ -28,7 +28,7 @@ El algoritmo particional, conocido también como de particiones, organiza los
 elementos dentro de k clústeres. Tiene ventajas en aplicaciones que involucran 
 gran cantidad de datos.
  
-# *K-means*
+# K-means
  
 Es uno de los algoritmos utilizados en la industria para crear k clústeres a partir de 
 un conjunto de elementos (objetos), de modo que los miembros de un grupo sean 
