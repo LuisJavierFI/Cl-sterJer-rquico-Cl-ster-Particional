@@ -48,3 +48,5 @@ mama de Wisconsin (WDBC, Wisconsin Diagnostic Breast Cancer)
 <p align='center'>
   <a href="https://github.com/LuisJavierFI/ClusterJerarquico-vs-ClusterParticional"><img src = "Datos.JPG"  width = 500> </a>
 </p>
+
+## Conclusión 
