@@ -37,3 +37,13 @@ similares.
 El algoritmo k-means resuelve problemas de optimización, dado que la función es 
 minimizar (optimizar) la suma de las distancias de cada elemento al centroide de 
 un clúster.
+ 
+ ## Datos
+ 
+Contexto
+ 
+Estudios clínicos a partir de imágenes digitalizadas de pacientes con cáncer de 
+mama de Wisconsin (WDBC, Wisconsin Diagnostic Breast Cancer)
+ 
+ Fuente de datos:
+
