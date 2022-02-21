@@ -51,5 +51,7 @@ mama de Wisconsin (WDBC, Wisconsin Diagnostic Breast Cancer)
 
 ## Conclusión 
 Se realizó tanto una clusterización jerárquica ascendente y una clusterización particional, pero antes de realizarlo se llevó a cabo una selección de características mediante un análisis de componentes principales. Con PCA se concluyó que las variables IDNumber, Diagnosis, Radius, Area, Compactness y Symmetry no poseen mucha informaciónrelevante para la clusterización.
+
 Posteriormente, se procedió a realizar los dos tipos de clusterización mencionados. Al finalizar, para la clusterización jerárquica ascendente se obtuvo un total de 4 clústeres y para la clusterización particional un total de 6 clústeres.
+
 Se observo que en cada cluster posee diferente información, de tal forma que la conclusión que se realiza en cada uno será distinta
